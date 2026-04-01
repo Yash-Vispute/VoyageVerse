@@ -393,3 +393,120 @@ div.logo {
     font-size: 3rem;
     padding-bottom: 20px;
 }
+
+.blog-section {
+    padding: 50px;
+
+}
+
+.blog-section .container0 {
+    width: 800px;
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid #38bdf8;
+}
+
+.blog-section h2 {
+    font-size: 28px;
+    color: white;
+    margin-bottom: 15px;
+}
+
+h2:hover {
+    color: #38bdf8;
+    text-shadow: 0 0 10px rgba(56, 190, 248, 0.5);
+    transition: text-shadow 0.3s ease;
+}
+
+.blog-section h3 {
+    font-size: 20px;
+    color: #38bdf8;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.blog-intro {
+    font-size: 16px;
+    color: white;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.blog-content p {
+    font-size: 15px;
+    color: white;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.blog-footer {
+    margin-top: 25px;
+    padding-top: 15px;
+    border-top: 1px solid #38bdf8;
+    text-align: center;
+}
+
+.blog-footer p {
+    margin-bottom: 10px;
+    color: white;
+}
+
+.btn {
+    display: inline-block;
+    padding: 8px 18px;
+    background-color: #38bdf8;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    background-color: #005f87;
+}
+
+.contact {
+    text-align: center;
+    color: #fff;
+    padding: 2rem 5%;
+    height: 100vh;
+}
+
+.contact h2 {
+    font-size: 2.5rem;
+    margin-top: 7rem;
+    margin-bottom: 1rem;
+    color: white;
+    transition: 0.3s ease;
+}
+
+.contact h2:hover {
+    color: #38bdf8;
+    text-shadow: 0 0 10px rgba(56, 190, 248, 0.5);
+}
+
+.contact h4 {
+    font-size: 1.25rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+
+
+.contact-info {
+    font-size: 1.25rem;
+    margin-top: 2rem;
+}
+
+.contact-info p {
+    margin: 1rem 0;
+    color: #38bdf8;
+    transition: color 0.3s ease;
+}
+
+.contact-info p:hover {
+    color: #00c0f8;
+}
